@@ -1,4 +1,4 @@
-Day 3 Task: Basic Linux Commands
+Day 3 Task: Basic Linux Commands (Done)
 
 Task: What is the linux command to
 
